@@ -20,4 +20,3 @@ const liArray = ingredients.map(ingredient => {
 
 list.append(...liArray);
 console.log(list);
-
